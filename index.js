@@ -111,36 +111,4 @@ client.on("messageCreate", async message => {
 
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-client.login(`MTA1NzAxNjgxNjE1ODkxNjYzOA.GbgsT7.4KxRvqqmPRxZdO7811Ni26HcNUmllXTQpgUG3E`);
+client.login(token);
